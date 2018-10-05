@@ -3,7 +3,7 @@
     package="cehs0703.com.daum_api2">
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
-    <meta-data android:name="com.kakao.sdk.AppKey" android:value="1a1e5ac4339150172951a2421960e9b6"/>
+    <meta-data android:name="com.kakao.sdk.AppKey" android:value="APIKEY"/>
 
     <application
         android:allowBackup="true"
